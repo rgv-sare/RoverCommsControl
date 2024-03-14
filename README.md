@@ -1,5 +1,7 @@
 # RoverCommsControl
 
+![Space Cowboy](https://github.com/rgv-sare/RoverCommsControl/blob/main/SpaceCowboyCommsCenter.webp "See You Space Cowboy!")
+
 ## Overview
 RoverCommsControl is a Flask-based server designed to manage telemetry data and command interfaces for rovers. It enables real-time data access and control, facilitating remote operations and monitoring.
 
